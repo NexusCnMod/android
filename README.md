@@ -1,17 +1,16 @@
-Getting Started
+ 同 步 源 码
 ---------------
 
-To get started with Nexus ROM, you'll need to get
-familiar with [Git and Repo](http://source.android.com/download/using-repo).
+要使用NexusCN ROM, 首先你要获取[Repo](http://source.android.com/download/using-repo).
 
-To initialize your local repository using the OMNIROM trees, use a command like this:
+初始化你的本地仓库:
 
-    repo init -u git://github.com/NexusCnMod/android.git -b <branch>
+    repo init -u git://github.com/NexusCnMod/android.git -b android-4.4
 
-Then to sync up:
+然后同步命令:
 
     repo sync
 
-Then to build:
+执行编译:
 
-     cd <source-dir>; . build/envsetup.sh; brunch <device_name>
+     cd <源码目录>; . build/envsetup.sh; brunch <你的设备名称>
