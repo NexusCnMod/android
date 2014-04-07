@@ -13,4 +13,6 @@
 
 执行编译:
 
-     cd <源码目录>; . build/envsetup.sh; brunch <你的设备名称>
+     cd <源码目录>
+     . build/envsetup.sh
+     brunch <你的设备名称>
