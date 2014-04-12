@@ -18,6 +18,10 @@
   <remote  name="omnirom"
            review="gerrit.omnirom.org"
            fetch="https://github.com/omnirom" />
+           
+  <remote  name="slimroms"
+           fetch="git://github.com/SlimRoms"
+           review="https://gerrit.slimroms.net/"/>
 
   <remote  name="nexus"
            fetch="https://github.com/NexusCnMod/" />
