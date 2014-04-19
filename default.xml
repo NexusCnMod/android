@@ -22,10 +22,6 @@
   <remote  name="SlimRoms"
            fetch="git://github.com/SlimRoms"
            review="https://gerrit.slimroms.net/"/>
-           
-   <remote  name="du"
-           fetch="https://github.com/DirtyUnicorns-KitKat/" 
-           review="gerrit.dirtyunicorns.com" />
 
   <remote  name="nexus"
            fetch="https://github.com/NexusCnMod/" />
